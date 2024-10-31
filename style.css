@@ -2,25 +2,35 @@
 body{
   background-color: #172815;
 }
-h1 {
+#head {
   text-align:center;
   text-transform:uppercase;
   font-size:2.5em;
   color: #709255;
+  background-color: #3E5622;
+  padding: 30px;
+  margin: 1px;
 }
-
-div{
+#links {
+  color: #709255;
+}
+.contactme {
   color: #95B46A;
   background-color: #3E5622;
 }
-
-h2{
+#aboutme{
+  color: #95B46A;
+}
+h2 {
   text-align:center;
   font-size: 2.2em;
-  color:95B46A;
+  color: 95B46A;
 }
 
 a{
   font-size:20.5px;
   color:#95B46A;
+}
+.two{
+  word-spacing: 50px;
 }
