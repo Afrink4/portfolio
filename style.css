@@ -34,3 +34,9 @@ a{
 .two{
   word-spacing: 50px;
 }
+p{
+  text-align: center;
+}
+a{
+  text-align: center;
+}
